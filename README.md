@@ -39,3 +39,6 @@
    o	идентификатор структурного подразделения, внешний ключ, integer
    o	идентификатор проекта, внешний ключ, integer
 
+![1](https://github.com/Aid1986/BD/blob/main/BD.png)
+
+![2](https://github.com/Aid1986/BD/blob/main/BD_v_Git.png)
